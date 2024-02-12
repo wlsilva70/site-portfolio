@@ -52,12 +52,11 @@ Este é um exemplo de lista ordenada
 
 1. Começando com Git
 2. Aprendendo sobre branches
-        1. O que é Git?
-        2. Instalando Git na máquina
+    1. O que é Git?
+    2. Instalando Git na máquina
 3. Git avançado
 4. Usando Github de forma profissional
 
-OBS: as sub-listas não funcionaram, pois deve haver um novo comando para realizar a função (foi utilizado pressionar a tecla "TAB" duas vezes)
 
 # Blockquote e Blocos de Código
 
@@ -133,3 +132,9 @@ Este é um exemplo de Menu de Link's Internos, utilizando a # dos títuls
 [Blockquote e Blocos de Código](#blockquote-e-blocos-de-código) |
 [Tasklist](#tasklist) |
 [Tabelas](#tabelas)
+
+# Exemplos de Arquivos README.md
+
+[Biblioteca do React](https://github.com/facebook/react)
+
+[Repositório Markdown](https://github.com/amitmerchant1990/electron-markdownify)
