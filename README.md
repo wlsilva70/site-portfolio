@@ -117,3 +117,19 @@ name | Informar o nome do usuário
 size | Para definir o tamanho do campo
 background | Cor de fundo da área em HEX
 onPress | Função chamada quando clicar no botão
+
+
+# Menu de Link's Internos
+
+Este é um exemplo de Menu de Link's Internos, utilizando a # dos títuls
+
+[Bem vindo ao curso Git e Github](#bem-vindo-ao-curso-git-e-github) |
+[Módulos](#módulos) |
+[Formatação de Títulos](#formatação-de-títulos) |
+[Ênfase](#ênfase) |
+[Imagens e Link's](#imagens-e-links) |
+[Listas Não Ordenadas](#listas-não-ordenadas) |
+[Listas Ordenadas](#listas-ordenadas) |
+[Blockquote e Blocos de Código](#blockquote-e-blocos-de-código) |
+[Tasklist](#tasklist) |
+[Tabelas](#tabelas)
