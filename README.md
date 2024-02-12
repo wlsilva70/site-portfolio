@@ -104,3 +104,16 @@ Este é um exemplo de tasklist do Markdown
 - [ ] Login com o facebook
 - [x] Site responsivo
 - [ ] Página sobre a empresa
+
+# Tabelas
+
+Este é um exemplo de tabela
+
+**Tabela de Propriedades**
+
+Propriedade | Descrição
+----------- | -----------
+name | Informar o nome do usuário
+size | Para definir o tamanho do campo
+background | Cor de fundo da área em HEX
+onPress | Função chamada quando clicar no botão
