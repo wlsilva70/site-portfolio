@@ -52,6 +52,8 @@ Este é um exemplo de lista ordenada
 
 1. Começando com Git
 2. Aprendendo sobre branches
+        1. O que é Git?
+        2. Instalando Git na máquina
 3. Git avançado
 4. Usando Github de forma profissional
 
