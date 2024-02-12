@@ -61,6 +61,5 @@ OBS: as sub-listas não funcionaram, pois deve haver um novo comando para realiz
 
 # Blockquote e Blocos de Código
 
->Este é um blockquote, usado para destacar alguma área
->
->Segunda área destacada
+>"Este é um blockquote, usado para destacar alguma área
+>Esta é a continuação do texto inicial, que está presente em um segunda linha do código"
