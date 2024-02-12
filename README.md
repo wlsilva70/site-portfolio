@@ -6,6 +6,8 @@ Entendendo o que é Git, Aprendendo sobre repositórios, Trabalhando com branche
 
 # Formatação de Títulos
 
+Estes são os níveis de títulos do Markdown
+
 # Título 1
 ## Título 2
 ### Título 3
@@ -15,6 +17,8 @@ Entendendo o que é Git, Aprendendo sobre repositórios, Trabalhando com branche
 
 # Ênfase
 
+Estes são exemplos das principais tipos de ênfases
+
 Normal
 
 **Negrigo**
@@ -23,7 +27,11 @@ _Itálico_
 
 # Imagens e Links
 
+Este é um exemplo de utilização de imagem
+
 ![Logo do git](https://sujeitoprogramador.com/wp-content/uploads/2021/04/gitimage.png)
+
+Estes são exemplos de utilização de link's
 
 [Instagram](https://instagram.com/sujeitoprogramador)
 
@@ -42,7 +50,8 @@ Este é um exemplo de lista não ordenada:
 
 Este é um exemplo de lista ordenada
 
-Começando com Git
-Aprendendo sobre branches
-Git avançado
-Usando Github de forma profissional
+1. Começando com Git
+2. Aprendendo sobre branches
+3. Git avançado
+4. Usando Github de forma profissional
+
