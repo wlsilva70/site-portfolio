@@ -68,12 +68,19 @@ Este é um exemplo de utilização do Blockquote
 
 Este é um exemplo do uso de blocos de código
 
+**Exemplo de script padrão**
+```
+código do script
+```
+
+**Exemplo de script JavaScript**
 ```js
 function showName(name){
     return 'Bem vindo: ' + name;
 }
 ```
 
+**Exemplo de script html**
 ```html
 <h1>
     Título do projeto
@@ -81,9 +88,19 @@ function showName(name){
 </h1>
 ```
 
+**Exemplo de script css**
 ```css
  .titulo{
     background-color: #FFF;
     color: #FF0000;
  }
 ```
+
+# Tasklist
+
+Este é um exemplo de tasklist do Markdown
+
+**Últimas updates**
+- [ ] Login com o facebook
+- [x] Site responsivo
+- [ ] Página sobre a empresa
