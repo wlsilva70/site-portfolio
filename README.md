@@ -28,3 +28,21 @@ _Itálico_
 [Instagram](https://instagram.com/sujeitoprogramador)
 
 [Youtube](https://Youtube.com/sujeitoprogramador)
+
+# Listas não ordenadas
+
+Este é um exemplo de lista não ordenada:
+
+* Começando com Git
+* Aprendendo sobre branches
+* Git avançado
+* Usando Github de forma profissional
+
+# Listas ordenadas
+
+Este é um exemplo de lista ordenada
+
+Começando com Git
+Aprendendo sobre branches
+Git avançado
+Usando Github de forma profissional
