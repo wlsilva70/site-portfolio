@@ -57,3 +57,10 @@ Este é um exemplo de lista ordenada
 3. Git avançado
 4. Usando Github de forma profissional
 
+OBS: as sub-listas não funcionaram, pois deve haver um novo comando para realizar a função (foi utilizado pressionar a tecla "TAB" duas vezes)
+
+# Blockquote e Blocos de Código
+
+>Este é um blockquote, usado para destacar alguma área
+>
+>Segunda área destacada
