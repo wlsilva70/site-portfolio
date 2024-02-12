@@ -61,5 +61,29 @@ OBS: as sub-listas não funcionaram, pois deve haver um novo comando para realiz
 
 # Blockquote e Blocos de Código
 
+Este é um exemplo de utilização do Blockquote
+
 >"Este é um blockquote, usado para destacar alguma área
 >Esta é a continuação do texto inicial, que está presente em um segunda linha do código"
+
+Este é um exemplo do uso de blocos de código
+
+```js
+function showName(name){
+    return 'Bem vindo: ' + name;
+}
+```
+
+```html
+<h1>
+    Título do projeto
+    <span>Curto Git</span>
+</h1>
+```
+
+```css
+ .titulo{
+    background-color: #FFF;
+    color: #FF0000;
+ }
+```
